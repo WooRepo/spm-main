@@ -1,0 +1,7 @@
+{
+  title: Alaone
+  description: A simple application for various tasks.
+  sources: https://files.catbox.moe/rar7uk.zip
+  extract: rar7uk.zip
+  main: ala.exe
+}
